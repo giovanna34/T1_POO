@@ -1,6 +1,7 @@
 # T1_POO
 Trabalho P.O.O
 Criadoras: Sophia Mello de Lima e Giovanna Gomes Franco
+
 Questao 1: recebe 4 numeros inteiros e soma eles.
 
 Questao 2: recebe 3 notas e calcula a média aritimética delas.
